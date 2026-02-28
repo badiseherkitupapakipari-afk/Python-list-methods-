@@ -1,4 +1,4 @@
-# in this i ll some list problems in python
+# In this i'll solve some list problems in python
 #To find the max in the list
 
 new=[1,2,3,4]
@@ -99,6 +99,7 @@ import random
 new=[1,2,4,5,6]
 get=random.choice(new)
 print(get)
+
 
 
 # Thanks for watching this short list methods.
